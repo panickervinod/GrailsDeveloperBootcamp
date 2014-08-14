@@ -14,6 +14,7 @@ http://grails.asia/grails-tutorial-for-beginners-playing-with-groovy-language/
 Grails Tutorial.
 
 https://grails.org/screencasts
+
 https://grails.org/tutorials
 
 Other Frameworks on Groovy.
